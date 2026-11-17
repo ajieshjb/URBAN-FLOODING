@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "Flood_Demo_App",
+			"path": "../../Flood_Demo_App/Flood_Demo_App"
+		},
+		{
+			"name": "Urban_Flood_Early_Prediction_Code",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
